@@ -57,7 +57,6 @@ html_title = "Stonecharioteer's Writing"
 serif_fonts = "Newsreader, Garamond, Helvetica, Times New Roman, Serif"
 
 html_theme_options = {
-    "navigations_with_keys": True,
     "light_css_variables": {
         "font-stack": serif_fonts,
     },
@@ -71,3 +70,5 @@ html_css_files = ["css/custom.css"]
 html_last_updated_fmt = ""
 
 todo_include_todos = True
+
+html_show_sphinx = False
