@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Newsreader&display=swap");
+
+/* Dark mode */
+@media (prefers-color-scheme: dark) {
+  .card a.sphinx-bs.btn.btn-block {
+    color: white !important;
+  }
+
+  .card a.btn:visited {
+    color: white !important;
+  }
+
+  body {
+    color: white imp !important;
+  }
+}
