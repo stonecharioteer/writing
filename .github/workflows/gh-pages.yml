@@ -1,4 +1,4 @@
-name: Publish Github Pages
+name: Build and Publish Writing Site
 on:
   push:
     branches: [main]
