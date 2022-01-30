@@ -15,105 +15,86 @@ Regenesis
 
 Blinder Trilogy
 ==================
+.. grid:: 2
+   :gutter: 3
 
-.. panels::
+   .. grid-item-card:: The Crown Of Incantations
+      :link: https://blinder-one.stonecharioteer.com
 
-   .. link-button:: https://blinder-one.stonecharioteer.com
-      :text: THE CROWN OF INCANTATIONS
-      :classes: btn-block stretched-link
+      :bdg-danger:`blinder-trilogy` :bdg-primary:`fantasy`
 
-   :badge:`blinder-trilogy,badge-warning badge-pill` :badge:`fantasy,badge-primary badge-pill`
+   .. grid-item-card:: The Sword Of Power
+      :link: https://blinder-two.stonecharioteer.com
 
-   ---
-
-   .. link-button:: https://blinder-two.stonecharioteer.com
-      :text: THE SWORD OF POWER
-      :classes: btn-block stretched-link
-
-   :badge:`blinder-trilogy,badge-warning badge-pill` :badge:`fantasy,badge-primary badge-pill`
+      :bdg-danger:`blinder-trilogy` :bdg-primary:`fantasy`
 
 
-   ---
+   .. grid-item-card:: The Ring Of Ages
+      :link: https://blinder-three.stonecharioteer.com
 
-   .. link-button:: https://blinder-three.stonecharioteer.com
-      :text: THE RING OF AGES
-      :classes: btn-block stretched-link
-
-   :badge:`blinder-trilogy,badge-warning badge-pill` :badge:`fantasy,badge-primary badge-pill`
+      :bdg-danger:`blinder-trilogy` :bdg-primary:`fantasy`
 
 
 Redeemer Trilogy
 ===================
 
-.. panels::
+.. grid:: 2
+   :gutter: 3
 
-   .. link-button:: https://redeemer-one.stonecharioteer.com
-      :text: THE BLESSED AND HOLY KING
-      :classes: btn-block stretched-link
+   .. grid-item-card:: The Blessed And Holy King
+      :link: https://redeemer-one.stonecharioteer.com
 
-   :badge:`redeemer-trilogy,badge-info badge-pill` :badge:`fantasy,badge-primary badge-pill`
+      :bdg-danger:`redeemer-trilogy` :bdg-primary:`fantasy`
 
-   ---
+   .. grid-item-card:: The Lord Of The Skies
+      :link: https://redeemer-two.stonecharioteer.com
 
-   .. link-button:: https://redeemer-two.stonecharioteer.com
-      :text: THE LORD OF THE SKIES
-      :classes: btn-block stretched-link
+      :bdg-danger:`redeemer-trilogy` :bdg-primary:`fantasy`
 
-   :badge:`redeemer-trilogy,badge-info badge-pill` :badge:`fantasy,badge-primary badge-pill`
-   ---
-   .. link-button:: https://redeemer-three.stonecharioteer.com
-      :text: THE ALL MONARCH
-      :classes: btn-block stretched-link
+   .. grid-item-card:: The All Monarch
+      :shadow: md
+      :link: https://redeemer-three.stonecharioteer.com
 
-   :badge:`redeemer-trilogy,badge-info badge-pill` :badge:`fantasy,badge-primary badge-pill`
+      :bdg-danger:`redeemer-trilogy` :bdg-primary:`fantasy`
 
 
 Creator Trilogy
 ===================
+.. grid:: 2
+   :gutter: 3
+   
+   .. grid-item-card:: The Third Continent
+      :link: https://creator-one.stonecharioteer.com
 
-.. panels::
+      :bdg-danger:`creator-trilogy` :bdg-primary:`fantasy`
 
-   .. link-button:: https://creator-one.stonecharioteer.com
-      :text: THE THIRD CONTINENT
-      :classes: btn-block stretched-link
 
-   :badge:`creator-trilogy,badge-success badge-pill` :badge:`fantasy,badge-primary badge-pill`
+   .. grid-item-card:: Kataranan
+      :link: https://creator-two.stonecharioteer.com
 
-   ---
+      :bdg-danger:`creator-trilogy` :bdg-primary:`fantasy`
 
-   .. link-button:: https://creator-two.stonecharioteer.com
-      :text: KATARANAN
-      :classes: btn-block stretched-link
+   .. grid-item-card:: The Precipice Of A Dream
+      :link: https://creator-three.stonecharioteer.com
 
-   :badge:`creator-trilogy,badge-success badge-pill` :badge:`fantasy,badge-primary badge-pill`
-
-   ---
-
-   .. link-button:: https://creator-three.stonecharioteer.com
-      :text: THE PRECIPICE OF A DREAM
-      :classes: btn-block stretched-link
-
-   :badge:`creator-trilogy,badge-success badge-pill` :badge:`fantasy,badge-primary badge-pill`
+      :bdg-danger:`creator-trilogy` :bdg-primary:`fantasy`
 
 
 Novellas
 ==================
 
-.. panels::
+.. grid:: 2
+   :gutter: 3
 
-   .. link-button:: https://the-nameless-sword.stonecharioteer.com
-      :text: BLADE OF THE NAMELESS SWORD
-      :classes: btn-block stretched-link
+   .. grid-item-card:: Blade Of The Nameless Sword
+      :link: https://the-nameless-sword.stonecharioteer.com
 
-   :badge:`regenesis,badge-danger badge-pill` :badge:`fantasy,badge-primary badge-pill`
+      :bdg-danger:`regenesis` :bdg-primary:`fantasy`
 
-   ---
+   .. grid-item-card:: The Song Of Silwe
+      :link: https://the-song-of-silwe.stonecharioteer.com
 
-   .. link-button:: https://the-song-of-silwe.stonecharioteer.com
-      :text: THE SONG OF SILWE
-      :classes: btn-block stretched-link
-
-   :badge:`regenesis,badge-danger badge-pill` :badge:`fantasy,badge-primary badge-pill`
+      :bdg-danger:`regenesis` :bdg-primary:`fantasy`
 
 
 --------------------------------------
@@ -122,19 +103,15 @@ Remtin-verse
 
 The *Remtin-verse* novels are a series of 17 fantasy fiction novels for children.
 
+.. grid:: 2
+   :gutter: 3
 
-.. panels::
+   .. grid-item-card:: The Wizard Of Faraway
+      :link: https://remtinverse-one.stonecharioteer.com
 
-   .. link-button:: https://remtinverse-one.stonecharioteer.com
-      :text: THE WIZARD OF FARAWAY
-      :classes: btn-block stretched-link
+      :bdg-warning:`remtinverse` :bdg-primary:`fantasy`
 
-   :badge:`remtinverse,badge-warning badge-pill` :badge:`fantasy,badge-primary badge-pill`
+   .. grid-item-card:: Elves And Dragons
+      :link: https://remtinverse-two.stonecharioteer.com
 
-   ---
-
-   .. link-button:: https://remtinverse-two.stonecharioteer.com
-      :text: ELVES AND DRAGONS
-      :classes: btn-block stretched-link
-
-   :badge:`remtinverse,badge-warning badge-pill` :badge:`fantasy,badge-primary badge-pill`
+      :bdg-warning:`remtinverse` :bdg-primary:`fantasy`
