@@ -12,6 +12,12 @@ This site contains my *non-technical* writing. It includes links to my
 books, where you can download them, as well as my short-stories and other
 fictional works.
 
+.. warning::
+
+   These works are incomplete. I've been working on them for a long time, and
+   I wanted to centralize them. However, I haven't been writing fiction consistently
+   in ten years.
+
 -------------
 Regenesis
 -------------
